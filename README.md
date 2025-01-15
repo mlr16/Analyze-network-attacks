@@ -63,4 +63,7 @@ Block malicious IPs using firewall rules and monitor traffic for new patterns of
 - **Traffic Anomaly Detection**: Implement monitoring tools that use machine learning to identify and mitigate anomalous traffic patterns in real time.
 
 <h2> Conclusion </h2>
-This TCP SYN Flood Attack exploited the server's resource allocation process to overwhelm it and disrupt normal operations. Immediate actions have stabilized the server, but implementing long-term solutions such as SYN cookies and traffic filtering are critical to prevent future atta
+This TCP SYN Flood Attack exploited the server's resource allocation process to overwhelm it and disrupt normal operations. Immediate actions have stabilized the server, but implementing long-term solutions such as SYN cookies and traffic filtering are critical to prevent future attacks. 
+
+<h2> TCP LOG FILE:</h2>
+[ Wireshark TCP_HTTP log - TCP]( https://docs.google.com/spreadsheets/d/1enpRzrIao3J2Lp2tOI0hmu1Cu7D7CjLGhFAiTiR9J64/edit?gid=218501934#gid=218501934 )
